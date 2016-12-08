@@ -1,7 +1,7 @@
 {
   "name": "pull-probe",
-  "version": "1.0.0",
-  "description": "Logs synchronization events on inside a pull-stream.",
+  "version": "1.0.1",
+  "description": "Logs synchronization events inside a pull-stream.",
   "main": "src/index.js",
   "dependencies": {
     "debug": "^2.3.3"
