@@ -1,0 +1,27 @@
+{
+  "name": "pull-probe",
+  "version": "1.0.0",
+  "description": "Logs synchronization events on inside a pull-stream.",
+  "main": "src/index.js",
+  "dependencies": {
+    "debug": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elavoie/pull-probe.git"
+  },
+  "keywords": [
+    "pull-stream",
+    "debug"
+  ],
+  "author": "Erick Lavoie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elavoie/pull-probe/issues"
+  },
+  "homepage": "https://github.com/elavoie/pull-probe#readme"
+}
